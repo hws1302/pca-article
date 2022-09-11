@@ -1,5 +1,7 @@
 # What is PCA 
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 Principle Component Analysis (PCA) is a fundamental method used to reduce the dimensionality of a problem. This is desirable for many reasons most notably improving computational tracability. 
 
 Once in the lower dimensional space machine learning techniques can be used as normal such as clustering, neural networks etc. The value of the principle components denotes how important/much information is given by one of the orthogonal directions in this new basis. Therefore, we reduce dimensions by discarding directions with small principle components/importantance. 
