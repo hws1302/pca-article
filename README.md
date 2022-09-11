@@ -1,6 +1,11 @@
 # What is PCA 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Olivetti dataset](./figures/olivetti_dataset.png)
+![Imperfect reconstruction](./figures/imperfect_reconstruction.png)
+![Out of dataset reconstruction](./figures/ood_reconstruction.png)
+![Top six principle components and directions](./figures/principle_components.png)
+
+
 
 Principle Component Analysis (PCA) is a fundamental method used to reduce the dimensionality of a problem. This is desirable for many reasons most notably improving computational tracability. 
 
