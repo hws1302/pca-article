@@ -10,6 +10,7 @@
 ![PCA basis](./figures/pca_basis.png)
 ![3d example](./figures/3d.png)
 ![Degenerate data](./figures/degenerate.png)
+![PCA dropoff](./figures/pca_dropoff.png)
 
 
 
