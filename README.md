@@ -9,7 +9,7 @@
 ![5000 datapoint example](./figures/5000_datapoints.png)
 ![PCA basis](./figures/pca_basis.png)
 ![3d example](./figures/3d.png)
-![Degenerate data](./figures/degeneracy.png)
+![Degenerate data](./figures/degenerate.png)
 
 
 
