@@ -4,6 +4,12 @@
 ![Imperfect reconstruction](./figures/imperfect_reconstruction.png)
 ![Out of dataset reconstruction](./figures/ood_reconstruction.png)
 ![Top six principle components and directions](./figures/principle_components.png)
+![Out of dataset explanation](./figures/span_explanation.jpg)
+![4 datapoint example](./figures/4_datapoints.png)
+![5000 datapoint example](./figures/5000_datapoints.png)
+![PCA basis](./figures/pca_basis.png)
+![3d example](./figures/3d.png)
+![Degenerate data](./figures/degeneracy.png)
 
 
 
