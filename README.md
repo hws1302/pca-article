@@ -6,8 +6,6 @@ For example, imagine you have a data set that consisting of height, weight and s
 
 Once in the lower dimensional space machine learning techniques can be used as normal such as clustering, neural networks etc. The value of the principle components denotes how important/much information is given by one of the orthogonal directions in this new basis. Therefore, we reduce dimensions by discarding directions with small principle components/importantance.
 
-$${\left\lbrack \matrix{2 & 3 \cr 4 & 5} \right\rbrack}$$
-
 ## Representing data
 
 Putting data into a matrix, $\mathbf A$, with each row represents a datapoint and each column representing a parameters $x$ and $y$ e.g. height and weight. 
