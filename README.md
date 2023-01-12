@@ -82,7 +82,7 @@ Constructing a $400 \times 4096$  data matrix and finding the important quantiti
 
 ![PCA dropoff](./figures/pca_dropoff.png)
 
-The graph below shows how quickly the singular values of the different eigenfaces falls off. As discussed earlier, principle components with small values offer little information, so we can discard some. If we go transform into the eigenface basis and then only take the k eigenfaces corresponding to the highe pricipal components and then transform back to images. Below is how the face is reproduced with different number of principle components used (i.e. variable k). For example, if we use just 100 principle components we compress the image ~41 times whilst still having a recognisable face. (not counting the face that we have the store the principle components and their directions).
+The graph below shows how quickly the singular values of the different eigenfaces falls off. As discussed earlier, principle components with small values offer little information, so we can discard some. If we go transform into the eigenface basis and then only take the k eigenfaces corresponding to the highe pricipal components and then transform back to images. Below is how the face is reproduced with different number of principle components used (i.e. variable k). For example, if we use just 10 principle components we compress the image ~40 times whilst still having a recognisable face. (not counting the face that we have the store the principle components and their directions).
 
 ![Imperfect reconstruction](./figures/imperfect_reconstruction.png)
 
